@@ -1,2 +1,3 @@
 # myfirst-rep
-This is my first Repo
+This is my first Git Repo
+Author - Rocky 
